@@ -24,7 +24,7 @@ La aplicación permite tomar fotos utilizando la cámara del dispositivo, almace
 
 1. Clonar este repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
+    git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/marciales34/Migracion-Ionic-Android.git)
     ```
 2. Abrir el proyecto en Android Studio.
 3. Sincronizar el proyecto con Gradle.
