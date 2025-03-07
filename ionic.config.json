@@ -1,0 +1,7 @@
+{
+  "name": "TomarFotosIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
